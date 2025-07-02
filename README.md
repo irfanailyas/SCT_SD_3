@@ -26,9 +26,7 @@ Paste 9 rows with 9 space-separated digits in the text area (use `0` for blanks)
 0 0 0 4 1 9 0 0 5
 0 0 0 0 8 0 0 7 9
 
-yaml
-Copy
-Edit
+
 
  How to Run :-
 pip install streamlit numpy
